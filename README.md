@@ -24,3 +24,5 @@ Sample moments of the 4rd order:= 2932378.0096113007
 Selective excess:= 22.697994733673035
 Coefficient of asymmetry:= 22.697994733673035
 ```
+
+![Histogram](https://github.com/Tarodictrl/Primary-sample-processing/blob/master/images/I22.png)
